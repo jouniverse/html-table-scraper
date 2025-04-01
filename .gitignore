@@ -1,0 +1,9 @@
+# IDE
+.vscode/
+.cursorrules
+
+# Other
+*.zip
+.DS_Store
+*.psd
+*.ai
