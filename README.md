@@ -20,7 +20,7 @@ A Chrome extension that helps you extract tables from web pages and download the
 ## Usage
 
 1. Navigate to any webpage containing tables
-2. Click the Table Scraper extension icon in your Chrome toolbar
+2. Click the HTML Table Scraper extension icon in your Chrome toolbar
 3. The extension will show you the first table found on the page
 4. Choose your preferred format (CSV or JSON)
 5. Click "Download" to save the table or "Skip" to move to the next table
